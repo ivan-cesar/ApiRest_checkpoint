@@ -1,0 +1,3 @@
+MONGOURI=mongodb+srv://mozart:mozart225@cluster0.9djoc.mongodb.net/rest_api?retryWrites=true&w=majority
+PORT=4000
+
